@@ -1,4 +1,4 @@
-# Skill Extractor
+#🖥️ Skill Extractor
 
 ## Project Overview
 

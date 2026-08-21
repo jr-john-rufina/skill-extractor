@@ -27,10 +27,14 @@ The project uses Python's built-in `re` and `json` modules.
 
 ### 🔎How It Works
 1.The user enters a description about themselves.
+
 2.The program converts the input into a format suitable for searching.
+
 3.It checks the text for predefined languages, technologies, and skills.
 Regular expressions (re) are used to identify the skills accurately and avoid incorrect matches.
+
 4.The detected skills are grouped into their respective categories.
+
 5.The final result is displayed in JSON format.
 
 ##  🧪 Example
@@ -57,7 +61,9 @@ I have experience in Python and C++ and worked on CNN models and AI/ML projects.
 Skill-Extractor/
 │
 ├── Skill_extractor.py
+
 └── README.md
+
 Skill_extractor.py contains the main Python program, while README.md contains the project documentation.
 
 ---

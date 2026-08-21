@@ -25,6 +25,41 @@ The project uses Python's built-in `re` and `json` modules.
 2. Open the project folder.
 3. Run the Python file.
 
+### 🔎How It Works
+1.The user enters a description about themselves.
+2.The program converts the input into a format suitable for searching.
+3.It checks the text for predefined languages, technologies, and skills.
+Regular expressions (re) are used to identify the skills accurately and avoid incorrect matches.
+4.The detected skills are grouped into their respective categories.
+5.The final result is displayed in JSON format.
+
+##  🧪 Example
+
+### Input
+I have experience in Python and C++ and worked on CNN models and AI/ML projects.
+
+### Output
+{
+    "Languages": [
+        "python",
+        "c++"
+    ],
+    "Technology": [
+        "CNN"
+    ],
+    "Skill": [
+        "AI/ML"
+    ]
+}
+
+## 📁 Project Directory
+
+Skill-Extractor/
+│
+├── Skill_extractor.py
+└── README.md
+Skill_extractor.py contains the main Python program, while README.md contains the project documentation.
+
 ---
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE). Feel free to fork, modify, and use it for your own projects!

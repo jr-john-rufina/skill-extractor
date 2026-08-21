@@ -58,13 +58,15 @@ I have experience in Python and C++ and worked on CNN models and AI/ML projects.
 
 ## 📁 Project Directory
 
-Skill-Extractor/
-
-|
+skill-extractor/
 
 ├── Skill_extractor.py
 
-└── README.md
+├── README.md
+
+└── requirements.txt
+
+
 
 Skill_extractor.py contains the main Python program, while README.md contains the project documentation.
 

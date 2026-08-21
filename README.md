@@ -48,10 +48,10 @@ I have experience in Python and C++ and worked on CNN models and AI/ML projects.
         "python",
         "c++"
     ],
-    "Technology": [
+    "Technologies": [
         "CNN"
     ],
-    "Skill": [
+    "Skills": [
         "AI/ML"
     ]
 }

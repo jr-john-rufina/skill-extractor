@@ -60,6 +60,7 @@ I have experience in Python and C++ and worked on CNN models and AI/ML projects.
 
 Skill-Extractor/
 │
+
 ├── Skill_extractor.py
 
 └── README.md
